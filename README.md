@@ -1,0 +1,2 @@
+# collinear-points-checker
+ss
